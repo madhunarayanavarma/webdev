@@ -3,5 +3,8 @@ public class App {
         System.out.println("Hello, World!");
         System.out.println("hwjbgjhcbhjwdbhjcd");
         System.out.println("wewdbjewhbdhbevwhjdvjhevhv");
+        System.out.println("jjedjbjewhbdhbwe");
+        System.out.println("ewljkjdbnkjewndkn");
+        System.out.println("ewlkjnkjeqndkjnejknd");
     }
 }
